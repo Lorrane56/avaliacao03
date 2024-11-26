@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #68524f;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    margin-left: 20px;
+}
+.header {
+    margin-top: 15px;
+}
+.logo {
+    width: 45px;
+    height: 45px;
+}
+.cafeteria {
+    display: inline;
+    font-size: 17px;
+    margin-left: 15px;
+    align-items: center;
+}
+.links, .menu {
+    text-decoration: none;
+    color: #e6b120;
+    text-align: right;
+    margin-left: 15px;
+    margin-right: 10px;
+}
+.titulo {
+    margin-right: 700px;
+    font-size: 60px;
+}
+.titulo_destaque {
+    margin-right: 300px;
+    color: #e6b120;
+    font-size: 65px;
+}
+p {
+    margin-top: 25px;
+    margin-bottom: 15px;
+    text-align: justify;
+    margin-right: 690px;
+}
+.form input {
+    border: none;
+    border-radius: 10px;
+    padding-top: 12px;
+    padding-right: 550px;
+    padding-bottom: 12px;
+    padding-left: 10px;
+    font-size: 13px;
+    margin-top: 25px;
+}
+button {
+    background-color: #e6b120;
+    color: #fff;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    padding: 10px 40px;
+    border: none;
+    border-radius: 20px;
+}
+.side-right {
+    display: flex;
+}
+.banner {
+    display: inline-flex;
+    width: 500px;
+    height: 600px;
+    border-radius: 20px;
+}
